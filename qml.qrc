@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Icons/M_05_Bosch-Supergraphic-BG.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>Icons/817595904-640x640.jpg</file>
+        <file>Icons/addto.jpg</file>
+        <file>Icons/addto.png</file>
+        <file>Icons/hd grey.jpeg</file>
+        <file>Icons/home.png</file>
+        <file>Icons/menu.png</file>
+        <file>Icons/music.png</file>
+        <file>Icons/Music.jpg</file>
+        <file>Icons/mut.jpg</file>
+        <file>Icons/mute.jpg</file>
+        <file>Icons/mute1.jpg</file>
+        <file>Icons/mutte.png</file>
+        <file>Icons/next.png</file>
+        <file>Icons/pause.jpg</file>
+        <file>Icons/pause.png</file>
+        <file>Icons/pexels-photo-953214.jpeg</file>
+        <file>Icons/play.jpg</file>
+        <file>Icons/play.png</file>
+        <file>Icons/plus.jpg</file>
+        <file>Icons/plus.png</file>
+        <file>Icons/pow1.jpg</file>
+        <file>Icons/power.jpg</file>
+        <file>Icons/pppp.jpg</file>
+        <file>Icons/previous.jpg</file>
+        <file>Icons/previous.png</file>
+        <file>Icons/repeat1.png</file>
+        <file>Icons/search.jpg</file>
+        <file>Icons/search.png</file>
+        <file>Icons/shuffle.png</file>
+        <file>Icons/speaker.jpg</file>
+        <file>Icons/speaker.png</file>
+        <file>Icons/speakerno.jpg</file>
+        <file>Icons/speakerno.png</file>
+        <file>Icons/volume.jpg</file>
+        <file>Icons/volume.png</file>
+        <file>Icons/delete.png</file>
+        <file>finalbg.png</file>
+    </qresource>
+</RCC>
